@@ -72,8 +72,6 @@ Breast-Cancer-Classification/
 
 ├── README.md
 
-└── dataset.csv
-
 ```
 ## How to Run
 To run this project do the following:
